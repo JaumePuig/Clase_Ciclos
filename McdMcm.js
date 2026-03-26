@@ -1,5 +1,5 @@
-const num1 = 5;
-const num2 = 2;
+const num1 = 34;
+const num2 = 26;
 
 function maxComDiv() {
     let maxCom = 0;
